@@ -1,5 +1,5 @@
 # codility-challenges
-Problem solving in Java.
+Problem solving in Java 13.
 
 Solving codility challenges with unit tests.
 
