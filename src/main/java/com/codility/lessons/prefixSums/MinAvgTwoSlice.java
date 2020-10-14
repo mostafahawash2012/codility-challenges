@@ -1,7 +1,7 @@
 package com.codility.lessons.prefixSums;
 
 public class MinAvgTwoSlice {
-
+	
 	public static int solution(int[] A) {
 		int min = Integer.MAX_VALUE;
 		int index = 0;
