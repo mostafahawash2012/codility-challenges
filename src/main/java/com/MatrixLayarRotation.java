@@ -1,4 +1,4 @@
-package JavaTraining.JavaTraining;
+package com;
 
 import java.io.*;
 import java.util.*;
@@ -6,7 +6,7 @@ import java.util.*;
 
 
 
-public class MatrixLayarRotation2 {
+public class MatrixLayarRotation {
 
     public static class Cell {
 
@@ -58,7 +58,7 @@ public class MatrixLayarRotation2 {
 		  (n-i*2)
 			 
 			 */
-			ArrayList<Cell> path = new ArrayList<MatrixLayarRotation2.Cell>();
+			ArrayList<Cell> path = new ArrayList<MatrixLayarRotation.Cell>();
 			int currentRowIndex = i;//0 .. 1
 			int currentColumnIndex = i;//0  .. 1
 			boolean down = true;	

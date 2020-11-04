@@ -1,4 +1,4 @@
-package JavaTraining.JavaTraining;
+package JavaTraining;
 
 import java.util.Arrays;
 

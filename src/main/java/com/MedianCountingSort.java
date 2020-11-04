@@ -1,4 +1,4 @@
-package JavaTraining.JavaTraining;
+package com;
 
 import java.io.*;
 import java.math.*;

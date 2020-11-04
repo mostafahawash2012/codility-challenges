@@ -1,4 +1,4 @@
-package JavaTraining.JavaTraining;
+package com.codingame;
 
 import java.util.Scanner;
 
